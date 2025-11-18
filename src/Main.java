@@ -11,5 +11,34 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
+
+        for(int i=1; i<=5; i++){
+            System.out.println("This is a new loop: i = " + i);
+        }
+        System.out.println("Hello, World!");
+        System.out.println("Welcome to the Java programming language.");
+        System.out.println("Let's write some code!");
+        System.out.println("Java is a versatile and powerful language.");
+        System.out.println("Happy coding!");
+        System.out.println("Goodbye!");
+        System.out.println("End of the program.");
+        System.out.println("Thank you for using this program.");
+        System.out.println("Have a great day!");
+        System.out.println("See you next time!");
+        System.out.println("Stay safe and code on!");
+        System.out.println("Keep learning and growing!");
+        System.out.println("Embrace challenges");
+        System.out.println("Celebrate your successes!");
+        System.out.println("Code with passion and purpose!");
+        System.out.println("Make a difference with your code!");
+        System.out.println("Believe in yourself and your abilities!");
+        System.out.println("Strive for excellence in everything you do!");
+        System.out.println("Never stop exploring new ideas and technologies!");
+        System.out.println("Together, we can build a better future through code!");
+        System.out.println("Let's make the world a better place, one line of code at a time!");
+        System.out.println("Happy coding, everyone!");
+        System.out.println("Good luck on your coding journey!");
+        System.out.println("Keep pushing the boundaries of what's possible with code!");
+        System.out.println("Stay curious, stay inspired, and keep coding!");
     }
 }
